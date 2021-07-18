@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@900&display=swap');
+
+.container {
+    clip: rect(0, auto, auto, 0);
+    overflow: hidden;
+    position: absolute;
+    height: 100vh;
+   left: 0;
+   width: 100%;
+
+}
+
+.title_wrapper {
+  position: fixed;
+  display: block;  
+  margin: auto;
+  width: 100%;
+  /* center the text wrapper vertically */
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.title_wrapper h1 {
+  text-align: center;
+  font-size: 64px;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Fraunces', serif;
+  font-weight: 900;
+
+  }
+
+.container_image {
+  
+  background-image: url(https://i.ibb.co/NpQf32F/wp9489594-game-of-thrones-characters-wallpapers.jpg);
+  background-size:100vw auto;
+  background-position: center;
+  background-attachment: fixed;
+  top: 100vh;
+}
+
+.container_image .title_wrapper h1 {
+  color: wheat;
+}
+
+.container_solid .title_wrapper h1 {
+  background: url(https://i.ibb.co/NpQf32F/wp9489594-game-of-thrones-characters-wallpapers.jpg);
+  background-size: 100vw auto;
+  background-position: center;
+  text-fill-color:  transparent;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: white;
+}
+
+.container_solid {
+  background: white;
+  top: 0;
+}
+
+header {
+  height: 200vh;
+}
+
+section {
+  min-height: 100vh;
+  padding: 2em;
+  margin: auto;
+  max-width: 800px;
+  background-color: #F3C583 ;
+}
+
+section h2 {
+  font-family: 'Fraunces', serif;
+}
+
+section p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+section ul{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    
+}
+section ol{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+

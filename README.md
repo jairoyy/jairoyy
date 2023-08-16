@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **Android Dev**
 
-- 👨‍💻 All of my projects are available at [https://jaisuriya.netlify.app/](https://jaisuriya.netlify.app/)
+- 👨‍💻 All of my worksample are available at [https://github.com/jairoyy?tab=repositories)
 
 - 📫 How to reach me **jairoy1410@gmail.com**
 

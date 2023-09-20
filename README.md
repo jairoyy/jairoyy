@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong>Jai Suriya</strong></h1>
-<h3 align="center">A Frontend developer from India</h3>
+<h3 align="center">A <<i>Frontend developer</i> from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairoyy&label=Profile%20views&color=0e75b6&style=flat" alt="jairoyy" /> </p>
 

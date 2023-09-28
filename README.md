@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **Android Dev**
 
-- 👨‍💻 All of my worksample are available at [https://github.com/jairoyy?tab=repositories)
+- 👨‍💻 All of my worksample are available at [https://github.com/jairoyy?tab=repositories]
 
 - 📫 How to reach me **jairoy1410@gmail.com**
 

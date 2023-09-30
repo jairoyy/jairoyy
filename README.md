@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jairoy1410@gmail.com**
 
-- ⚡ Fun fact **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜.**
+- ⚡ Fun fact **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

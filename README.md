@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full-stack Dev**
 
-- 🌱 I’m currently learning **Rect-js**         
+- 🌱 I’m currently learning **Python**         
 
 - 👯 I’m looking to collaborate with **Android Dev**
 

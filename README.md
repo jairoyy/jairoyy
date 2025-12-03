@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jai Suriya</h1>
-<h3 align="center">🚀 PHP & WordPress Developer | Frontend Developer | SEO Specialist</h3>
+<h3 align="center">🚀 PHP & WordPress Developer | SEO Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=08F7FE&center=true&vCenter=true&width=600&lines=WordPress+Developer;WooCommerce+Customization+Expert;Frontend+Developer+%7C+UI+Designer;Building+Custom+WP+Themes+%26+Plugins" />

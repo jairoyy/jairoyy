@@ -49,4 +49,5 @@
 ---
 
 ### 💬 Quote
-> **WordPress gives power, custom development gives freedom 🚀**
+> 
+ I love solving real-time website problems and learning new technologies every day 😄

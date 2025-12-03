@@ -1,4 +1,4 @@
-<a href="https://hover-here.netlify.app/"><b>Click Here</b></a>
+
 
 <h1 align="center">Hi 👋, I'm Jai Suriya</h1>
 <h3 align="center">🚀 PHP & WordPress Developer | Frontend Developer | SEO Specialist</h3>
@@ -44,23 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairoyy&layout=compact&theme=radical" /></p>
-<br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jairoyy&show_icons=true&theme=radical" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairoyy&theme=radical" /></p>
-
----
-
-### 🐍 Profile Snake Animation
-![snake gif](https://github.com/jairoyy/jairoyy/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🚀 Featured Project
-🔗 **Responsive Hover Card Animation** — <a href="https://hover-here.netlify.app/">Live Demo</a>
 
 ---
 
